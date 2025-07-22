@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAccessibility",
       "LiAlbum",
       "LiArrowRightSquare",
       "LiArchive"
@@ -32,7 +33,21 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Playwright заметки.md": "LiArchive",
-  "Kafka.md": "LiAlbum",
-  "Alembic.md": "LiAlbum"
+  "C language заметки": {
+    "iconName": "LiArchive",
+    "iconColor": "#6a52e5"
+  },
+  "Python заметки": {
+    "iconName": "LiArchive",
+    "iconColor": "#77eea1"
+  },
+  "Python заметки/Alembic.md": "LiAlbum",
+  "Python заметки/Kafka.md": "LiAlbum",
+  "Python заметки/pyproject.toml Конфигурация.md": "LiAlbum",
+  "Заметки по рабочим проектам": {
+    "iconName": "LiArchive",
+    "iconColor": "#f48686"
+  },
+  "Python заметки/Playwright.md": "LiAlbum",
+  "Собеседования": "LiAccessibility"
 }
